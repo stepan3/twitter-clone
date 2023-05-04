@@ -3,7 +3,7 @@ import { FaUser } from "react-icons/fa";
 import { BiLogOut } from "react-icons/bi";
 import { signOut } from "next-auth/react";
 
-import useCurrentUser from "@/hooks/useCurrentUset";
+import useCurrentUser from "@/hooks/useCurrentUser";
 
 import SidebarLogo from "./SidebarLogo";
 import SidebarItem from "./SidebarItem";
